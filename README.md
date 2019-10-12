@@ -1,2 +1,3 @@
 # Profiling
-Use of open mp with C and use of Profiling tool 
+
+Use of `OpenMP` with `C` and use of Profiling tool 
