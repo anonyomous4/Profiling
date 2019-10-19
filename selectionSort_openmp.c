@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <omp.h>
-
+#selection sort using open mp
  struct Compare
 {
   int val;
