@@ -4,7 +4,7 @@
 #include "omp.h"
 
 #define MAX_SIZE 1000
-
+//referd by keta
 
 void generate_list(int * x, int n) {
    int i,j,t;
